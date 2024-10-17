@@ -1,1 +1,2 @@
-# Ci-ncia-de-dados-criando-gr-ficos-din-micos-com-JavaScript
+# CienciaDeDados-CriandoGraficosDinamicosComJavaScript
+Ciência de dados: Criando Gráficos Dinâmicos com JavaScript
